@@ -55,4 +55,4 @@ The complete research notebook is available in this repository:
 The full research report, including methodology, empirical results,
 portfolio optimization and limitations, is available here:
 
-[Read the full research report](PEGAR_AQUI_EL_ENLACE_DEL_PDF)
+[Read the full research report](Buying Different Tech Stocks, or Buying the Same Risk Repeatedly.pdf)

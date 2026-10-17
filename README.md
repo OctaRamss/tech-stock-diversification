@@ -55,4 +55,4 @@ The complete research notebook is available in this repository:
 The full research report, including methodology, empirical results,
 portfolio optimization and limitations, is available here:
 
-[Read the full research report]([Buying Different Tech Stocks, or Buying the Same Risk Repeatedly.pdf](https://github.com/OctaRamss/tech-stock-diversification/blob/main/Buying%20Different%20Tech%20Stocks%2C%20or%20Buying%20the%20Same%20Risk%20Repeatedly.pdf))
+[Read the full research report]([Buying Different Tech Stocks, or Buying the Same Risk Repeatedly.pdf](https://github.com/OctaRamss/tech-stock-diversification/blob/main/Buying%20Different%20Tech%20Stocks%2C%20or%20Buying%20the%20Same%20Risk%20Repeatedly.pdf)

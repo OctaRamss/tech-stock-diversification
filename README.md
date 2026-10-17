@@ -52,4 +52,7 @@ The complete research notebook is available in this repository:
 
 ## Research Report
 
-A detailed PDF report documenting the methods, results, and limitations will be added to this repository.
+The full research report, including methodology, empirical results,
+portfolio optimization and limitations, is available here:
+
+[Read the full research report](PEGAR_AQUI_EL_ENLACE_DEL_PDF)
